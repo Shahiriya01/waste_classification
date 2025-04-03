@@ -65,17 +65,17 @@ streamlit run app.py
 
 # Future Improvements
 
-Expand dataset for better accuracy
+  Expand dataset for better accuracy
 
-Deploy as a mobile application
+  Deploy as a mobile application
 
-Integrate with IoT for real-world waste classification
+  Integrate with IoT for real-world waste classification
 
-Contribution
+# Contribution
 
-Feel free to contribute by creating issues or submitting pull requests.
+  Feel free to contribute by creating issues or submitting pull requests.
 
-License
+# License
 
-This project is open-source and available under the MIT License.
+  This project is open-source and available under the MIT License.
 
